@@ -1,1 +1,1 @@
-# KLH-CSE-2026-27-Batch7-EarlyMedAI
+# EarlyMed AI - Machine Learning-Based Healthcare Data Analytics for Early Disease Risk Prediction
